@@ -2,4 +2,5 @@ def hello():
     print('Hello world!')
 
     
-hello()
+def new_func():
+    print('asdfasdf')
